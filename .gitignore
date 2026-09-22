@@ -1,0 +1,9 @@
+build/
+.savegame/
+doomvox/
+*.WAD
+*.wad
+.vscode/
+voxels1/
+voxels2/
+plot.log
