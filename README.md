@@ -2,12 +2,11 @@
 
 Doom on a volumetric display.
 
-This is a port of Doom to [Multivox](https://github.com/AncientJames/multivox). It runs either on a physical volumetric display, or in the simulator, `virtex`.
+This is a port of Doom to [Multivox](https://github.com/AncientJames/multivox), based on [doomgeneric](https://github.com/ozkl/doomgeneric). It runs either on a physical volumetric display, or in the simulator, `virtex`.
 
 To build it,
 ```
-cd src
-make
+(cd src; make)
 ```
 
 To run,
